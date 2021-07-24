@@ -1,26 +1,21 @@
 .jumbotron {
-  padding-top: 6rem;
-  background-color: #e2edff;
+	background-color: #c2beb5;
+	padding-top: 6rem;
 }
-
-.display-4, .lead {
-  color: rgb(10, 10, 10);
-  font-family: Dalgona;
-}
-
 
 #projects {
-  background-color: #e2edff;
+	background-color: #c2beb5;
+}
+
+.img-gallery {
+	width: 100%;
+}
+
+#gallery .row > * {
+	padding: 0px;
 }
 
 section {
-  padding-top: 5rem;
+	padding-top: 4rem;
 }
 
-.gallery-img {
-  width: 100%;
-}
-
-#Gallery .row > * {
-  padding: 0;
-}
